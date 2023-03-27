@@ -15,9 +15,8 @@
 </p>
 
 
-# iNotes- A note taking website
-A website where user can keep their important notes. They can add, edit, delete and go through each note.  
-All the notes will be kept in a drop-down table form.
+# imageUpload- A simple image uploaded application
+A simple web application build with PHP that allows user to upload images with a title. Users can also view those images in an page of this website.
 
 # Installation
 
